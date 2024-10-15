@@ -9,7 +9,7 @@ Tracking my daily progress for coding, core subjects, and fitness goals.
 # DAY 1
 | Date       | 10 Problems | Aptitude 1 Hour | DBMS  | Networks | OS    | 25 Pushups | 3 Pull-ups | Summary                        |
 |------------|-------------|-----------------|-------|----------|-------|------------|------------|--------------------------------|
-| 2024-10-16 | ✅          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+| 2024-10-15 | ✅          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
 
 ## WEEK 1
 

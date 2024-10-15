@@ -26,6 +26,8 @@ Tracking my daily progress for coding, core subjects, and fitness goals.
 
 ## WEEK 2
 
+| Date       | 10 Problems | Aptitude 1 Hour | DBMS  | Networks | OS    | 25 Pushups | 3 Pull-ups | Summary                        |
+|------------|-------------|-----------------|-------|----------|-------|------------|------------|--------------------------------|
 | 2024-10-23 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
 | 2024-10-24 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
 | 2024-10-25 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
@@ -41,7 +43,9 @@ Tracking my daily progress for coding, core subjects, and fitness goals.
 - **Fitness Goals**: 175 Pushups (25 per day) and 21 Pull-ups (3 per day).
 
 - ## WEEK 3
-
+- 
+| Date       | 10 Problems | Aptitude 1 Hour | DBMS  | Networks | OS    | 25 Pushups | 3 Pull-ups | Summary                        |
+|------------|-------------|-----------------|-------|----------|-------|------------|------------|--------------------------------|
 | 2024-10-30 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
 | 2024-10-31 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
 | 2024-11-01 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |

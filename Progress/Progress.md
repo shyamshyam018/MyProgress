@@ -1,17 +1,53 @@
-# Daily Progress Log
+# 📅 Daily Progress Tracker
 
-This file tracks my day-to-day progress, including the time spent on various activities and what I learned.
+Tracking my daily progress for coding, core subjects, and fitness goals. 
 
-### Week 1
+---
 
-| Day   | Date       | DSA (hrs) | Development (hrs) | Aptitude (hrs) | Gaming (hrs) | Wasted Hours | Total Hours | Content / What I Learned                          |
-|-------|------------|-----------|-------------------|----------------|--------------|--------------|-------------|--------------------------------------------------|
-| Day 1 | 2024-10-11 | 2         | 1                 | 0            | 2            | 7          | 3           | Learned Tree , Recursion ; Angular Project     |
-| Day 2 | 2024-10-12 | 3         | 2                 | 1              | 0            | 1            | 7           | Solved binary search problems; studied recursion |
-| Day 3 | 2024-10-13 | 2.5       | 1.5               | 1              | 0.5          | 0            | 5.5         | Worked on DP basics; learned recursion patterns  |
+## 📊 Daily Tasks
 
-### Week 2
+## WEEK 1
 
-| Day   | Date       | DSA (hrs) | Development (hrs) | Aptitude (hrs) | Gaming (hrs) | Wasted Hours | Total Hours | Content / What I Learned                          |
-|-------|------------|-----------|-------------------|----------------|--------------|--------------|-------------|--------------------------------------------------|
-| Day 1 | [Track your progress here...] | | | | | | | |
+| Date       | 10 Problems | Aptitude 1 Hour | DBMS  | Networks | OS    | 25 Pushups | 3 Pull-ups | Summary                        |
+|------------|-------------|-----------------|-------|----------|-------|------------|------------|--------------------------------|
+| 2024-10-16 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+| 2024-10-17 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+| 2024-10-18 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+| 2024-10-19 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+| 2024-10-20 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+| 2024-10-21 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+| 2024-10-22 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+
+## 📝 Weekly Targets (Every Sunday)
+- **Complete 70 problems**: Aim to solve 10 problems each day.
+- **1 Hour of Aptitude Daily**: Total of 7 hours for the week.
+- **DBMS, Networks, and OS**: Study each subject for at least 3 hours (9 hours total).
+- **Fitness Goals**: 175 Pushups (25 per day) and 21 Pull-ups (3 per day).
+
+## WEEK 2
+
+| 2024-10-23 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+| 2024-10-24 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+| 2024-10-25 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+| 2024-10-26 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+| 2024-10-27 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+| 2024-10-28 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+| 2024-10-29 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+
+## 📝 Weekly Targets (Every Sunday)
+- **Complete 70 problems**: Aim to solve 10 problems each day.
+- **1 Hour of Aptitude Daily**: Total of 7 hours for the week.
+- **DBMS, Networks, and OS**: Study each subject for at least 3 hours (9 hours total).
+- **Fitness Goals**: 175 Pushups (25 per day) and 21 Pull-ups (3 per day).
+
+- ## WEEK 3
+
+| 2024-10-30 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+| 2024-10-31 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+| 2024-11-01 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+| 2024-11-02 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+| 2024-11-03 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+| 2024-11-04 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+| 2024-11-05 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
+  
+

@@ -4,7 +4,6 @@
 <details open>
 <summary><strong>What is the main purpose of an operating system? Discuss different types.</strong></summary>
 <br><br>
-  
 
 The main purpose of an operating system (OS) is to manage the computer's hardware and software resources and provide a stable environment for applications to run. The OS acts as an intermediary between users and the computer hardware, ensuring efficient execution of programs, file management, process management, and controlling input/output devices.
 
@@ -60,4 +59,62 @@ The main purpose of an operating system (OS) is to manage the computer's hardwar
 - **Advantages**: Lightweight, efficient for mobile hardware.
 - **Disadvantages**: Limited functionality compared to desktop OS.
 
+</details>
+
+
+<details open>
+<summary><strong>What is a socket, kernel and monolithic kernel ?</strong></summary>
+<br><br>
+
+1. Socket:
+A socket is an endpoint for sending and receiving data across a computer network. It enables communication between two machines (or processes) over a network, allowing them to exchange data.
+
+Purpose: Sockets are used in network programming for communication between devices (e.g., between a client and a server in a client-server model).
+Types:
+Stream Socket (TCP): Provides reliable, connection-oriented communication using the Transmission Control Protocol (TCP).
+Datagram Socket (UDP): Uses the User Datagram Protocol (UDP) to provide connectionless, less reliable communication.
+Raw Socket: Allows direct access to lower-layer protocols (like IP), used for custom protocol implementation.
+Example: In a typical web browser-server communication, a socket is created between the browser (client) and the server to exchange HTTP requests and responses.
+2. Kernel:
+The kernel is the core component of an operating system. It manages communication between hardware and software and ensures efficient resource allocation.
+
+Purpose: The kernel manages tasks such as process management, memory management, I/O (input/output) management, and device control.
+Key Functions:
+Process Management: Manages the execution of processes, scheduling, and multitasking.
+Memory Management: Allocates and deallocates memory for processes.
+Device Management: Manages device drivers and communication between hardware devices.
+File System Management: Organizes files on storage devices and handles data access.
+Security: Ensures proper user access and resource protection.
+Types of Kernels:
+
+Monolithic Kernel
+Microkernel
+3. Monolithic Kernel:
+A monolithic kernel is a type of kernel where all essential operating system services (like process management, memory management, file system management, and device drivers) run in a single address space (kernel mode).
+
+Key Characteristics:
+
+All services are tightly integrated into the kernel, meaning the entire OS runs as one large process in kernel space.
+Communication between components happens through function calls (since they are all within the same space).
+Advantages: Faster performance due to reduced context switching and direct communication between kernel components.
+Disadvantages: Less modular, and any crash in a single component (like a driver) can bring down the entire system.
+Examples of Monolithic Kernels:
+
+Linux Kernel: Linux follows a monolithic architecture but allows modular loading/unloading of components (device drivers, filesystems) during runtime.
+Unix: Traditional Unix operating systems also use monolithic kernels.
+Comparison: Monolithic Kernel vs. Microkernel
+Monolithic Kernel:
+
+All OS services are part of the kernel.
+Faster, but less modular.
+Example: Linux, Unix.
+Microkernel:
+
+Only essential services (like communication, low-level hardware management) run in kernel space; other services run in user space.
+More modular, easier to maintain, but typically slower due to higher communication overhead.
+Example: QNX, Minix.
+Summary:
+A socket is an endpoint used for communication between two systems over a network.
+A kernel is the central component of the operating system that manages hardware and software interactions.
+A monolithic kernel is a type of kernel where all OS services run in the same space, offering high performance but lower modularity compared to other kernel types like microkernels.
 </details>

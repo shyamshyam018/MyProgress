@@ -15,7 +15,7 @@ Tracking my daily progress for coding, core subjects, and fitness goals.
 
 | Date       | 10 Problems | Aptitude 1 Hour | DBMS  | Networks | OS    | 25 Pushups | 3 Pull-ups | Summary                        |
 |------------|-------------|-----------------|-------|----------|-------|------------|------------|--------------------------------|
-| 2024-10-16 | ❌          | ❌              | ❌   | ❌      | ✅    | ❌        | ❌         | 1hr OS ,                       |
+| 2024-10-16 | ✅          | ❌              | ❌   | ❌      | ✅    | ✅        | ❌         |1hr OS,10 problems on Recsn and Trees , mind got fucked cuz of a bitch|
 | 2024-10-17 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
 | 2024-10-18 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |
 | 2024-10-19 | ❌          | ❌              | ❌   | ❌      | ❌    | ❌        | ❌         |                                |

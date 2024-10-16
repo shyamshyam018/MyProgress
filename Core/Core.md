@@ -1,6 +1,10 @@
+<details open>
+<summary>What is the main purpose of an operating system? Discuss different types?</summary>
+<br>
+Answer!
+<br><br>
+<pre>
 
-
-<script src="https://gist.github.com/citrusui/07978f14b11adada364ff901e27c7f61.js"></script>
 The main purpose of an operating system (OS) is to manage the computer's hardware and software resources and provide a stable environment for applications to run. The OS acts as an intermediary between users and the computer hardware, ensuring efficient execution of programs, file management, process management, and controlling input/output devices.
 
 Key Functions of an Operating System:
@@ -53,22 +57,5 @@ Use Case: Smartphones and tablets.
 Example: Android, iOS.
 Advantages: Lightweight, efficient for mobile hardware.
 Disadvantages: Limited functionality compared to desktop OS.
-
-
-
-
-
-
-<details open>
-<summary>What is the main purpose of an operating system? Discuss different types?</summary>
-<br>
-Answer!
-<br><br>
-<pre>
-&lt;details open&gt;
-&lt;summary&gt;Want to ruin the surprise?&lt;&#47;summary&gt;
-&lt;br&gt;
-Well, you asked for it!
-&lt;&#47;details&gt;
 </pre>
 </details>

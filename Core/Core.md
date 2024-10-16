@@ -2,7 +2,6 @@
 <summary><strong>What is the main purpose of an operating system? Discuss different types.</strong></summary>
 <br><br>
   
-Answer :
 
 The main purpose of an operating system (OS) is to manage the computer's hardware and software resources and provide a stable environment for applications to run. The OS acts as an intermediary between users and the computer hardware, ensuring efficient execution of programs, file management, process management, and controlling input/output devices.
 
